@@ -48,7 +48,6 @@ namespace TechTalk.SpecFlow
         {
         }
 
-
         public GivenAttribute(string regex)
             : base(regex, StepDefinitionType.Given)
         {
